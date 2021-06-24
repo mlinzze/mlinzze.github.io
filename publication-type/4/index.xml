@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>4 | Manuel Linsenmeier</title>
+    <link>https://mlinzze.github.io/publication-type/4/</link>
+      <atom:link href="https://mlinzze.github.io/publication-type/4/index.xml" rel="self" type="application/rss+xml" />
+    <description>4</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Manuel Linsenmeier © 2021</copyright><lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mlinzze.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>4</title>
+      <link>https://mlinzze.github.io/publication-type/4/</link>
+    </image>
+    
+    <item>
+      <title>Klimawirkungs- und Risikoanalyse 2021 für Deutschland. Teilbericht 1: Grundlagen</title>
+      <link>https://mlinzze.github.io/publication/kahlenborn2021kwra2021grundlagen/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://mlinzze.github.io/publication/kahlenborn2021kwra2021grundlagen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Klimawirkungs- und Risikoanalyse 2021 für Deutschland. Teilbericht 3: Klimarisiken im Cluster Wasser</title>
+      <link>https://mlinzze.github.io/publication/kahlenborn2021kwra2021wasser/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://mlinzze.github.io/publication/kahlenborn2021kwra2021wasser/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Klimawirkungs- und Risikoanalyse 2021 für Deutschland. Teilbericht 5: Klimarisiken in den Clustern Wirtschaft und Gesundheit</title>
+      <link>https://mlinzze.github.io/publication/kahlenborn2021kwra2021wirtschaft/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://mlinzze.github.io/publication/kahlenborn2021kwra2021wirtschaft/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integration von Umweltindikatoren und Wohlfahrtsmaßen in ökonomische Modelle</title>
+      <link>https://mlinzze.github.io/publication/diefenbacher2019umweltindikatoren/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0200</pubDate>
+      <guid>https://mlinzze.github.io/publication/diefenbacher2019umweltindikatoren/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wirtschaftliche Chancen durch Klimaschutz</title>
+      <link>https://mlinzze.github.io/publication/kahlenborn2019wirtschaftsfaktor/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0200</pubDate>
+      <guid>https://mlinzze.github.io/publication/kahlenborn2019wirtschaftsfaktor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ökonomische Instrumente in der Luftreinhaltung</title>
+      <link>https://mlinzze.github.io/publication/oehlmann2018luftreinhaltung/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0200</pubDate>
+      <guid>https://mlinzze.github.io/publication/oehlmann2018luftreinhaltung/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bestimmung des volkswirtschaftlichen Nutzens von meteorologischen Produkten und Leistungen für die Energiewende in Deutschland</title>
+      <link>https://mlinzze.github.io/publication/bacher2016energie/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0200</pubDate>
+      <guid>https://mlinzze.github.io/publication/bacher2016energie/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
