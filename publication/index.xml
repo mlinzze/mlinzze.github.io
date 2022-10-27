@@ -1,95 +1,67 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Manuel Linsenmeier</title>
-    <link>https://mlinzze.github.io/publication/</link>
-      <atom:link href="https://mlinzze.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <title>Publications | Academic</title>
+    <link>https://example.com/publication/</link>
+      <atom:link href="https://example.com/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Manuel Linsenmeier © 2021</copyright><lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://mlinzze.github.io/media/icon_hua52037628fe599185c51760e65126cb4_2640_512x512_fill_lanczos_center_2.png</url>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
-      <link>https://mlinzze.github.io/publication/</link>
+      <link>https://example.com/publication/</link>
     </image>
     
     <item>
-      <title>Klimawirkungs- und Risikoanalyse 2021 für Deutschland. Teilbericht 1: Grundlagen</title>
-      <link>https://mlinzze.github.io/publication/kahlenborn2021kwra2021grundlagen/</link>
-      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://mlinzze.github.io/publication/kahlenborn2021kwra2021grundlagen/</guid>
-      <description></description>
+      <title>An example preprint / working paper</title>
+      <link>https://example.com/publication/preprint/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/preprint/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Klimawirkungs- und Risikoanalyse 2021 für Deutschland. Teilbericht 3: Klimarisiken im Cluster Wasser</title>
-      <link>https://mlinzze.github.io/publication/kahlenborn2021kwra2021wasser/</link>
-      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://mlinzze.github.io/publication/kahlenborn2021kwra2021wasser/</guid>
-      <description></description>
+      <title>An example journal article</title>
+      <link>https://example.com/publication/journal-article/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/journal-article/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Klimawirkungs- und Risikoanalyse 2021 für Deutschland. Teilbericht 5: Klimarisiken in den Clustern Wirtschaft und Gesundheit</title>
-      <link>https://mlinzze.github.io/publication/kahlenborn2021kwra2021wirtschaft/</link>
-      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://mlinzze.github.io/publication/kahlenborn2021kwra2021wirtschaft/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Temperature variability and long-run economic development</title>
-      <link>https://mlinzze.github.io/publication/linsenmeier2021nightlights/</link>
-      <pubDate>Mon, 12 Apr 2021 22:58:33 +0200</pubDate>
-      <guid>https://mlinzze.github.io/publication/linsenmeier2021nightlights/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Integration von Umweltindikatoren und Wohlfahrtsmaßen in ökonomische Modelle</title>
-      <link>https://mlinzze.github.io/publication/diefenbacher2019umweltindikatoren/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0200</pubDate>
-      <guid>https://mlinzze.github.io/publication/diefenbacher2019umweltindikatoren/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Wirtschaftliche Chancen durch Klimaschutz</title>
-      <link>https://mlinzze.github.io/publication/kahlenborn2019wirtschaftsfaktor/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0200</pubDate>
-      <guid>https://mlinzze.github.io/publication/kahlenborn2019wirtschaftsfaktor/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ökonomische Instrumente in der Luftreinhaltung</title>
-      <link>https://mlinzze.github.io/publication/oehlmann2018luftreinhaltung/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0200</pubDate>
-      <guid>https://mlinzze.github.io/publication/oehlmann2018luftreinhaltung/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bestimmung des volkswirtschaftlichen Nutzens von meteorologischen Produkten und Leistungen für die Energiewende in Deutschland</title>
-      <link>https://mlinzze.github.io/publication/bacher2016energie/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0200</pubDate>
-      <guid>https://mlinzze.github.io/publication/bacher2016energie/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Climate of Earth-like planets with high obliquity and eccentric orbits: Implications for habitability conditions</title>
-      <link>https://mlinzze.github.io/publication/linsenmeier2015obliquity/</link>
-      <pubDate>Thu, 01 Jan 2015 22:58:33 +0200</pubDate>
-      <guid>https://mlinzze.github.io/publication/linsenmeier2015obliquity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Warnsignal Klima</title>
-      <link>https://mlinzze.github.io/publication/linsenmeier2015warnsignal/</link>
-      <pubDate>Thu, 01 Jan 2015 22:58:33 +0200</pubDate>
-      <guid>https://mlinzze.github.io/publication/linsenmeier2015warnsignal/</guid>
-      <description></description>
+      <title>An example conference paper</title>
+      <link>https://example.com/publication/conference-paper/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/conference-paper/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

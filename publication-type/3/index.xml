@@ -5,19 +5,25 @@
     <link>https://mlinzze.github.io/publication-type/3/</link>
       <atom:link href="https://mlinzze.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Manuel Linsenmeier © 2021</copyright><lastBuildDate>Mon, 12 Apr 2021 22:58:33 +0200</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://mlinzze.github.io/media/icon_hua52037628fe599185c51760e65126cb4_2640_512x512_fill_lanczos_center_2.png</url>
+      <url>https://mlinzze.github.io/media/icon_hua52037628fe599185c51760e65126cb4_2640_512x512_fill_lanczos_center_3.png</url>
       <title>3</title>
       <link>https://mlinzze.github.io/publication-type/3/</link>
     </image>
     
     <item>
-      <title>Temperature variability and long-run economic development</title>
-      <link>https://mlinzze.github.io/publication/linsenmeier2021nightlights/</link>
-      <pubDate>Mon, 12 Apr 2021 22:58:33 +0200</pubDate>
-      <guid>https://mlinzze.github.io/publication/linsenmeier2021nightlights/</guid>
-      <description></description>
+      <title>An example preprint / working paper</title>
+      <link>https://mlinzze.github.io/templates/publication/preprint/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://mlinzze.github.io/templates/publication/preprint/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
