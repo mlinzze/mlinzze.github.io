@@ -70,10 +70,12 @@ author:
   name     : "Manuel Linsenmeier"
   avatar   : "/assets/images/avatar.jpg"
   bio      : "Postdoctoral Research Associate, Princeton University"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://mlinsenmeier.com"
+    - label: "Bluesky"
+      icon: "fab fa-fw fa-bluesky"
+      url: "https://bsky.app/profile/mlinsenmeier.bsky.social"
 
 favicon: "/assets/icons/icon.png"
-
-stylesheets:
-  - /assets/css/main.css
-  - |
-    .author-profile .author-profile-follow { display: none !important; }
