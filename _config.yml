@@ -23,9 +23,7 @@ email: mlinsenmeier@princeton.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Personal website of Manuel Linsenmeier, Postdoctoral Research Associate at Princeton University.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: 
-github_username: 
+url: "https://mlinsenmeier.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 #theme: minima
