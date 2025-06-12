@@ -72,3 +72,8 @@ author:
   bio      : "Postdoctoral Research Associate, Princeton University"
 
 favicon: "/assets/icons/icon.png"
+
+stylesheets:
+  - /assets/css/main.css
+  - |
+    .author-profile .author-profile-follow { display: none !important; }
