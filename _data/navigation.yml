@@ -1,0 +1,14 @@
+# main links
+main:
+  - title: "Home"
+    url: https://mlinsenmeier.com/
+  - title: "Research"
+    url: /research/
+  - title: "Teaching"
+    url: /teaching/
+  - title: "Policy"
+    url: /policy/
+  - title: "CV"
+    url: /assets/files/Linsenmeier_CV.pdf
+  - title: "Contact"
+    url: /contact/
