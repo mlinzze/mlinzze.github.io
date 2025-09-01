@@ -9,7 +9,7 @@ author_profile: true
 
 **About**
 
-I am an environmental economist. My main research interests are climate change and sustainable development. I work as Professor of Environmental Economics at the newly founded [Center for Critical Computational Studies](https://www.c3s-frankfurt.de/) at [Goethe University in Frankfurt am Main](https://www.goethe-university-frankfurt.de/en). I am also a [Wuebben Foundation Fellow](https://www.wuebben-stiftung-wissenschaft.org/en/home) and a Research Affiliate of the [CESifo Research Network](https://www.ifo.de/en/cesifo/cesifo-homepage). Most of my [research](https://mlinsenmeier.com/research/) seeks to quantify the consequences of climate change and to improve our understanding of how we can better adapt to them.
+I am an environmental economist. My main [research interests](https://mlinsenmeier.com/research/) are climate change and sustainable development. I work as Professor of Environmental Economics at the newly founded [Center for Critical Computational Studies](https://www.c3s-frankfurt.de/) at [Goethe University in Frankfurt am Main](https://www.goethe-university-frankfurt.de/en). I am also a [Wuebben Foundation Fellow](https://www.wuebben-stiftung-wissenschaft.org/en/home) and a Research Affiliate of the [CESifo Research Network](https://www.ifo.de/en/cesifo/cesifo-homepage).
 
 My research seeks to contribute to public debate and to better [policies](https://mlinsenmeier.com/policy/). Some of my work involves collaboration with the [International Monetary Fund](https://www.imf.org/), the [World Bank](https://www.worldbank.org/), and other national and international organisations.
 
