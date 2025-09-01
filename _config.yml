@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Manuel Linsenmeier
+title: Prof. Dr. Manuel Linsenmeier
 email: linsenmeier@c3s.uni-frankfurt.de
 description: >- # this means to ignore newlines until "baseurl:"
   Personal website of Manuel Linsenmeier, Professor of Environmental Economics at Goethe University.
