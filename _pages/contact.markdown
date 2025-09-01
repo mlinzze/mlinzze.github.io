@@ -6,9 +6,9 @@ permalink: /contact/
 
 <h1 id="foo">Contact Information</h1>
   
-**Address**: High Meadows Environmental Institute, Guyot Hall, Princeton University, Princeton, NJ, 08544, United States
+**Address**: Center for Critical Computational Studies (C3S), Eschersheimer Landstraße 121, 60322 Frankfurt am Main
 
-**E-Mail**: [mlinsenmeier@princeton.edu](mailto:mlinsenmeier@princeton.edu)
+**E-Mail**: [linsenmeier@c3s.uni-frankfurt.de](mailto:linsenmeier@c3s.uni-frankfurt.de)
 
 ---
 
