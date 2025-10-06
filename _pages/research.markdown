@@ -17,11 +17,6 @@ with [Laura Bakkensen](https://www.laurabakkensen.com/), [Derek Lemoine](https:/
 
 ---
 
-**The socioeconomic benefits of weather forecasts**<br />
-with [Hannah Farkas](https://www.sipa.columbia.edu/communities-connections/faculty/hannah-farkas), [Marta Talevi](https://sites.google.com/view/marta-talevi), [Paolo Avner](https://blogs.worldbank.org/team/paolo-avner), [Bramka Arga Jafino](https://blogs.worldbank.org/team/bramka-arga-jafino) and [Moussa Sidibe](https://www.gfdrr.org/en/meet-our-team)
-
----
-
 **Climate policy and public opinion in Germany**<br />
 with [Dennis Abel](https://www.gesis.org/en/institute/about-us/staff/person/Dennis.Abel) and [Stefan Juenger](https://stefanjuenger.github.io/)
 
@@ -64,6 +59,13 @@ Most recent version: [PDF](https://www.imf.org/-/media/Files/Publications/WP/202
   Climate policy at the subnational level is sometimes framed as being counterproductive, because climate change is considered a collective action problem that can be best addressed in a coalition that should be as large as possible. Using comprehensive data from US states on climate policy and policy outcomes, we show that state-level policy is effective in accelerating the adoption of solar energy. Crucially, however, state policies also have positive spillovers to other states, by making it more likely that neighboring states adopt climate policy as well. By proportionally attributing the spillover effects, we find that many US states achieve more climate benefits through the spillovers to other states than within their own jurisdiction. In a further step, we distinguish between climate policies in the energy sector and policies addressed either at other sectors or greenhouse gas emission (GHG) reductions generally. We find that climate policies in the energy sector are distinct from other climate policies in two ways: They have a significant effect on solar capacity growth and they diffuse more broadly.
   </span>
 </details>
+
+
+---
+
+**The socioeconomic benefits of weather forecasts**<br />
+with [Hannah Farkas](https://www.sipa.columbia.edu/communities-connections/faculty/hannah-farkas), [Marta Talevi](https://sites.google.com/view/marta-talevi), [Paolo Avner](https://blogs.worldbank.org/team/paolo-avner), [Bramka Arga Jafino](https://blogs.worldbank.org/team/bramka-arga-jafino) and [Moussa Sidibe](https://www.gfdrr.org/en/meet-our-team)<br />
+Most recent version: [PDF](https://openknowledge.worldbank.org/handle/10986/43709)<br />
 
 ---
 
