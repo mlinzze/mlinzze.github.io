@@ -67,10 +67,27 @@ Most recent version: [PDF](https://www.imf.org/-/media/Files/Publications/WP/202
 with [Hannah Farkas](https://www.sipa.columbia.edu/communities-connections/faculty/hannah-farkas), [Marta Talevi](https://sites.google.com/view/marta-talevi), [Paolo Avner](https://blogs.worldbank.org/team/paolo-avner), [Bramka Arga Jafino](https://blogs.worldbank.org/team/bramka-arga-jafino) and [Moussa Sidibe](https://www.gfdrr.org/en/meet-our-team)<br />
 Most recent version: [PDF](https://openknowledge.worldbank.org/handle/10986/43709)<br />
 
+<details>
+  <summary>Abstract</summary>
+
+  <span class="small">
+  This study systematically reviews the literature that quantifies the economic benefits of weather observations and forecasts in four weather-dependent economic sectors: agriculture, energy, transport, and disaster-risk management. The review covers 175 peer-reviewed journal articles and 15 policy reports. Findings show that the literature is concentrated in high-income countries and most studies use theoretical models, followed by observational and then experimental research designs. Forecast horizons studied, meteorological variables and services, and monetization techniques vary markedly by sector. Estimated benefits even within specific subsectors span several orders of magnitude and broad uncertainty ranges. An econometric meta-analysis suggests that theoretical studies and studies in richer countries tend to report significantly larger values. Barriers that hinder value realization are identified on both the provider and user sides, with inadequate relevance, weak dissemination, and limited ability to act recurring across sectors. Policy reports rely heavily on back-of-the-envelope or recursive benefit-transfer estimates, rather than on the methods and results of the peer-reviewed literature, revealing a science-to-policy gap. These findings suggest substantial socioeconomic potential of hydrometeorological services around the world, but also knowledge gaps that require more valuation studies focusing on low- and middle-income countries, addressing provider- and user-side barriers and employing rigorous empirical valuation methods to complement and validate theoretical models.
+  </span>
+</details>
+
 ---
 
 **Climate shift uncertainty and economic damages**<br />
 with [Romain Fillon](https://romainfillon.github.io/) and [Gernot Wagner](https://gwagner.com/)
+Most recent version: [PDF](https://www.ifo.de/DocDL/cesifo1_wp12289.pdf)<br />
+
+<details>
+  <summary>Abstract</summary>
+
+  <span class="small">
+  Focusing on global annual averages of climatic variables can bias aggregate and distributional estimates of the economic impacts of climate change. We here empirically identify dose-response functions of GDP growth rates to daily mean temperature levels and combine them with regional intra-annual climate projections of daily mean temperatures. We then disentangle, for various shared socio-economic pathways (SSPs), how much of the missing impacts are due to heterogeneous warming patterns over space. Global damages in 2050 are 25\% (21-28\% across SSPs) higher when accounting for the shift in the shape of the entire intra-annual distribution of daily mean temperatures at the regional scale. 
+  </span>
+</details>
 
 ---
 
