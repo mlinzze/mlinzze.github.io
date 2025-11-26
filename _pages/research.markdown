@@ -78,14 +78,14 @@ Most recent version: [PDF](https://openknowledge.worldbank.org/handle/10986/4370
 ---
 
 **Climate shift uncertainty and economic damages**<br />
-with [Romain Fillon](https://romainfillon.github.io/) and [Gernot Wagner](https://gwagner.com/)
+with [Romain Fillon](https://romainfillon.github.io/) and [Gernot Wagner](https://gwagner.com/)<br />
 Most recent version: [PDF](https://www.ifo.de/DocDL/cesifo1_wp12289.pdf)<br />
 
 <details>
   <summary>Abstract</summary>
 
   <span class="small">
-  Focusing on global annual averages of climatic variables can bias aggregate and distributional estimates of the economic impacts of climate change. We here empirically identify dose-response functions of GDP growth rates to daily mean temperature levels and combine them with regional intra-annual climate projections of daily mean temperatures. We then disentangle, for various shared socio-economic pathways (SSPs), how much of the missing impacts are due to heterogeneous warming patterns over space. Global damages in 2050 are 25\% (21-28\% across SSPs) higher when accounting for the shift in the shape of the entire intra-annual distribution of daily mean temperatures at the regional scale. 
+  Focusing on global annual averages of climatic variables can bias aggregate and distributional estimates of the economic impacts of climate change. We here empirically identify dose-response functions of GDP growth rates to daily mean temperature levels and combine them with regional intra-annual climate projections of daily mean temperatures. We then disentangle, for various shared socio-economic pathways (SSPs), how much of the missing impacts are due to heterogeneous warming patterns over space. Global damages in 2050 are 25% (21-28% across SSPs) higher when accounting for the shift in the shape of the entire intra-annual distribution of daily mean temperatures at the regional scale. 
   </span>
 </details>
 
