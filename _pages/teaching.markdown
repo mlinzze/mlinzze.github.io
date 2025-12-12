@@ -2,7 +2,6 @@
 layout: single
 title: ""
 permalink: /teaching/
-classes: wide
 ---
 
 <h1 id="foo">Teaching</h1>

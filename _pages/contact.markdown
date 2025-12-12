@@ -2,8 +2,6 @@
 layout: single
 title: ""
 permalink: /contact/
-classes: wide
-
 ---
 
 <h1 id="foo">Contact Information</h1>

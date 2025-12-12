@@ -2,7 +2,6 @@
 layout: single
 title: ""
 permalink: /research/
-classes: wide
 ---
 
 <h1 id="foo">Work in Progress (selection)</h1>
