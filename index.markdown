@@ -15,9 +15,15 @@ I am an environmental economist. My main [research interests](https://mlinsenmei
 
 Prior to my current appointment, I worked at the High Meadows Environmental Institute at [Princeton University](https://environment.princeton.edu/) and at the Climate School at [Columbia University](https://www.climate.columbia.edu/). I hold a PhD in Environmental Economics from the [London School of Economics and Political Science](http://www.lse.ac.uk/), where my PhD thesis won the Best Doctoral Dissertation Award by the [European Association of Environmental and Resource Economists](https://www.eaere.org/best-european-doctoral-dissertation-award).
 
+**Selected current work:**
+
+**Climate shift uncertainty and economic damages**. with [Romain Fillon](https://romainfillon.github.io/) and [Gernot Wagner](https://gwagner.com/). [PDF](https://www.ifo.de/DocDL/cesifo1_wp12289.pdf) (<font color="rgb(148, 148, 0)">New working paper</font>)
+
 **Selected publications:**
 
-- **Global variation in the preferred temperature for recreational outdoor activity**. *Journal of Environmental Economics and Management*, 2024 [PDF](https://doi.org/10.1016/j.jeem.2024.103032)
-- **Global benefits of the international diffusion of carbon pricing policies** with [Adil Mohommad](https://blogs.imf.org/bloggers/adil-mohommad/) and [Gregor Schwerhoff](https://blogs.imf.org/bloggers/gregor-schwerhoff/). *Nature Climate Change*, 2023 [PDF](https://www.nature.com/articles/s41558-023-01710-8)
+- **Global variation in the preferred temperature for recreational outdoor activity**. *Journal of Environmental Economics and Management*, 2024. [PDF](https://doi.org/10.1016/j.jeem.2024.103032)
+- **Global benefits of the international diffusion of carbon pricing policies** with [Adil Mohommad](https://blogs.imf.org/bloggers/adil-mohommad/) and [Gregor Schwerhoff](https://blogs.imf.org/bloggers/gregor-schwerhoff/). *Nature Climate Change*, 2023. [PDF](https://www.nature.com/articles/s41558-023-01710-8)
+
+
 
 
