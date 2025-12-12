@@ -17,10 +17,7 @@ Prior to my current appointment, I worked at the High Meadows Environmental Inst
 
 **Selected publications:**
 
-- **Global variation in the preferred temperature for recreational outdoor activity**<br />
-Published in: Journal of Environmental Economics and Management, 2024 [PDF](https://doi.org/10.1016/j.jeem.2024.103032)<br />
-- **Global benefits of the international diffusion of carbon pricing policies**<br />
-with [Adil Mohommad](https://blogs.imf.org/bloggers/adil-mohommad/) and [Gregor Schwerhoff](https://blogs.imf.org/bloggers/gregor-schwerhoff/)<br />
-Published in: Nature Climate Change, 2023 [PDF](https://www.nature.com/articles/s41558-023-01710-8)<br />
+- **Global variation in the preferred temperature for recreational outdoor activity**. *Journal of Environmental Economics and Management*, 2024 [PDF](https://doi.org/10.1016/j.jeem.2024.103032)
+- **Global benefits of the international diffusion of carbon pricing policies** with [Adil Mohommad](https://blogs.imf.org/bloggers/adil-mohommad/) and [Gregor Schwerhoff](https://blogs.imf.org/bloggers/gregor-schwerhoff/). *Nature Climate Change*, 2023 [PDF](https://www.nature.com/articles/s41558-023-01710-8)
 
 
