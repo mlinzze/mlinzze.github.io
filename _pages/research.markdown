@@ -5,7 +5,7 @@ permalink: /research/
 classes: wide
 ---
 
-<h1 id="foo">Work in Progress (selection)</h1>
+<h1 id="foo">Work in Progress (selectioN)</h1>
 
 ---
 
