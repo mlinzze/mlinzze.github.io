@@ -6,85 +6,30 @@ permalink: /research/
 
 <h1 id="foo">Work in Progress (selection)</h1>
 
-**Forecasts and Projected Mortality from Climate Change**<br />
-with [Laura Bakkensen](https://www.laurabakkensen.com/), [Derek Lemoine](https://www.dereklemoine.com/), [Jeffrey Shrader](https://jeffreyshrader.com/), and [Stephan Thies](https://www.sipa.columbia.edu/communities-connections/faculty/stephan-thies)
+**Forecasts and Projected Mortality from Climate Change** (with [Laura Bakkensen](https://www.laurabakkensen.com/), [Derek Lemoine](https://www.dereklemoine.com/), [Jeffrey Shrader](https://jeffreyshrader.com/), and [Stephan Thies](https://www.sipa.columbia.edu/communities-connections/faculty/stephan-thies))
 
-**The value of the bee: Weather and pollination ecosystem services**<br />
+**The value of the bee: Weather and pollination ecosystem services**
 
-**Climate policy and public opinion in Germany**<br />
-with [Dennis Abel](https://www.gesis.org/en/institute/about-us/staff/person/Dennis.Abel) and [Stefan Juenger](https://stefanjuenger.github.io/)
+**Climate policy and public opinion in Germany** (with [Dennis Abel](https://www.gesis.org/en/institute/about-us/staff/person/Dennis.Abel) and [Stefan Juenger](https://stefanjuenger.github.io/))
 
-**Heat and health**<br />
-with [Francesco Savazzi](https://www.linkedin.com/in/francesco-savazzi-05982013a/?originalSubdomain=fr) and [Leonie Wenz](https://www.pik-potsdam.de/~wenz/)
+**Heat and health** (with [Francesco Savazzi](https://www.linkedin.com/in/francesco-savazzi-05982013a/?originalSubdomain=fr) and [Leonie Wenz](https://www.pik-potsdam.de/~wenz/))
+
+---
 
 <h1 id="foo">Working Papers</h1>
 
-- **Deforestation and structural change – The case of tourism in Brazil**<br />
-Most recent version: [PDF](https://mlinsenmeier.com/assets/files/Linsenmeier_Deforestation_Tourism_Brazil.pdf)<br />
-- **Quantifying the direct and indirect benefits of climate policies in the USA**<br />
-with [Mitali Das](https://www.imf.org/en/Research/Researcher-CV/Author/Das-Mitali?AuthID=267#Background) and [Gregor Schwerhoff](https://blogs.imf.org/bloggers/gregor-schwerhoff/)<br />
-Most recent version: [PDF](https://www.imf.org/-/media/Files/Publications/WP/2024/English/wpiea2024198-print-pdf.ashx)<br />
-- **The socioeconomic benefits of weather forecasts**<br />
-with [Hannah Farkas](https://www.sipa.columbia.edu/communities-connections/faculty/hannah-farkas), [Marta Talevi](https://sites.google.com/view/marta-talevi), [Paolo Avner](https://blogs.worldbank.org/team/paolo-avner), [Bramka Arga Jafino](https://blogs.worldbank.org/team/bramka-arga-jafino) and [Moussa Sidibe](https://www.gfdrr.org/en/meet-our-team)<br />
-Most recent version: [PDF](https://openknowledge.worldbank.org/handle/10986/43709)<br />
+**Deforestation and structural change – The case of tourism in Brazil**. Most recent version: [PDF](https://mlinsenmeier.com/assets/files/Linsenmeier_Deforestation_Tourism_Brazil.pdf)
 
-<details>
-  <summary>Abstract</summary>
+**Quantifying the direct and indirect benefits of climate policies in the USA** (with [Mitali Das](https://www.imf.org/en/Research/Researcher-CV/Author/Das-Mitali?AuthID=267#Background) and [Gregor Schwerhoff](https://blogs.imf.org/bloggers/gregor-schwerhoff/)). Most recent version: [PDF](https://www.imf.org/-/media/Files/Publications/WP/2024/English/wpiea2024198-print-pdf.ashx)
 
-  <span class="small">
-  This study systematically reviews the literature that quantifies the economic benefits of weather observations and forecasts in four weather-dependent economic sectors: agriculture, energy, transport, and disaster-risk management. The review covers 175 peer-reviewed journal articles and 15 policy reports. Findings show that the literature is concentrated in high-income countries and most studies use theoretical models, followed by observational and then experimental research designs. Forecast horizons studied, meteorological variables and services, and monetization techniques vary markedly by sector. Estimated benefits even within specific subsectors span several orders of magnitude and broad uncertainty ranges. An econometric meta-analysis suggests that theoretical studies and studies in richer countries tend to report significantly larger values. Barriers that hinder value realization are identified on both the provider and user sides, with inadequate relevance, weak dissemination, and limited ability to act recurring across sectors. Policy reports rely heavily on back-of-the-envelope or recursive benefit-transfer estimates, rather than on the methods and results of the peer-reviewed literature, revealing a science-to-policy gap. These findings suggest substantial socioeconomic potential of hydrometeorological services around the world, but also knowledge gaps that require more valuation studies focusing on low- and middle-income countries, addressing provider- and user-side barriers and employing rigorous empirical valuation methods to complement and validate theoretical models.
-  </span>
-</details>
+**The socioeconomic benefits of weather forecasts** (with [Hannah Farkas](https://www.sipa.columbia.edu/communities-connections/faculty/hannah-farkas), [Marta Talevi](https://sites.google.com/view/marta-talevi), [Paolo Avner](https://blogs.worldbank.org/team/paolo-avner), [Bramka Arga Jafino](https://blogs.worldbank.org/team/bramka-arga-jafino) and [Moussa Sidibe](https://www.gfdrr.org/en/meet-our-team)). Most recent version: [PDF](https://openknowledge.worldbank.org/handle/10986/43709)
 
----
+**Climate shift uncertainty and economic damages** (with [Romain Fillon](https://romainfillon.github.io/) and [Gernot Wagner](https://gwagner.com/)). Most recent version: [PDF](https://www.ifo.de/DocDL/cesifo1_wp12289.pdf)<br />
 
-**Climate shift uncertainty and economic damages**<br />
-with [Romain Fillon](https://romainfillon.github.io/) and [Gernot Wagner](https://gwagner.com/)<br />
-Most recent version: [PDF](https://www.ifo.de/DocDL/cesifo1_wp12289.pdf)<br />
 
-<details>
-  <summary>Abstract</summary>
+**Global inequalities in weather forecasts** (with [Jeffrey Shrader](https://jeffreyshrader.com/)). Most recent version: [PDF](https://osf.io/preprints/socarxiv/7e2jf)
 
-  <span class="small">
-  Focusing on global annual averages of climatic variables can bias aggregate and distributional estimates of the economic impacts of climate change. We here empirically identify dose-response functions of GDP growth rates to daily mean temperature levels and combine them with regional intra-annual climate projections of daily mean temperatures. We then disentangle, for various shared socio-economic pathways (SSPs), how much of the missing impacts are due to heterogeneous warming patterns over space. Global damages in 2050 are 25% (21-28% across SSPs) higher when accounting for the shift in the shape of the entire intra-annual distribution of daily mean temperatures at the regional scale. 
-  </span>
-</details>
-
----
-
-**Global inequalities in weather forecasts**<br />
-with [Jeffrey Shrader](https://jeffreyshrader.com/)<br />
-Most recent version: [PDF](https://osf.io/preprints/socarxiv/7e2jf)<br />
-
-<details>
-  <summary>Abstract</summary>
-
-  <img src="{{ '/assets/images/forecasts.png' | relative_url }}"
-       alt="Global distribution in forecast accuracy"
-       style="float:right; width:100%; margin:1rem;">
-
-  <span class="small">
-  Global weather forecasts are of great economic value for society, but geographical differences in forecast accuracy can create new and potentially exacerbate existing economic inequalities. Regional differences in forecast accuracy are particularly relevant if weather forecasts are considered as an important tool to reduce some of the negative effects of future climate change such as mortality from extreme temperature events. In this paper, we provide a comprehensive global analysis of the accuracy of short-term temperature forecasts and relate our findings to existing economic inequalities and the role of the global infrastructure of weather stations. We report three main results: First, temperature forecasts are currently substantially more accurate in high income countries compared to low income countries. The average forecast accuracy for high-income countries is about 19 % higher than the average accuracy in low-income countries. Second, while forecast accuracy has improved steadily since 1985, with the largest increases in the 1990s, the gap between high income and low income countries has closed only slightly. Third, similar to the accuracy of global weather forecast, the infrastructure for weather observations is highly unequally distributed across countries, with fewer land-based stations and radiosondes in poorer countries. These inequalities are even larger when lower reporting rates in poorer countries are taken into account.
-  </span>
-</details>
-
----
-
-**Some Like It Cold: The Persistent Cost of Higher Temperatures in European Economic Sectors**<br />
-with [Ben Groom](https://www.lse.ac.uk/granthaminstitute/profile/ben-groom/) and [Sefi Roth](https://www.lse.ac.uk/geography-and-environment/people/academic-staff/sefi-roth)<br />
-Most recent version: [PDF](https://osf.io/preprints/socarxiv/tcnad/)<br />
-
-<details>
-  <summary>Abstract</summary>
-
-  <img src="{{ '/assets/images/europe.png' | relative_url }}"
-       alt="Costs of climate change in Europe"
-       style="float:right; width:100%; margin:1rem;">
-
-  <span class="small">
-  Econometric analysis of the global impact of temperature fluctuations on Gross Domestic Product (GDP) suggests a generalised coupled-climate-economy relationship in which higher temperatures harm warm countries, benefit cooler ones and an “optimal” temperature exists in between. However, aggregate temperature-GDP relationships reflect an average across different spatial scales and sectors of the economy, thereby masking any underlying heterogeneity. Ignoring such heterogeneity could misrepresent the overall costs or benefits of temperature change and provide misleading guidance for mitigation and adaptation policies. Focusing on Europe, we use administrative district level data on the growth rate of Gross-Value Added (GVA) and GDP to estimate the impact of temperature fluctuations on economic growth at the national level, the district level, and by industry. Unlike previous studies with a global focus, for Europe we find negative effects of warmer-than-average years on GVA and GDP in relatively cold districts. In warmer regions warmer-than-average years tend to increase economic output. Warmer temperatures only benefit extremely cold districts and are only costly to extremely warm districts. Disaggregating by economic sector, the negative temperature effect in cold countries stems primarily from the production of goods (e.g. agriculture and construction) not services. Disaggregating by district, the marginal temperature effects are highly heterogeneous, even within countries. Overall, our results invert the narrative that warmer than average temperature will be economically advantageous to colder regions, point to regional vulnerabilities stemming from specialisation, and suggest local temperature optima not a global one.
-  </span>
-</details>
+**Some Like It Cold: The Persistent Cost of Higher Temperatures in European Economic Sectors** (with [Ben Groom](https://www.lse.ac.uk/granthaminstitute/profile/ben-groom/) and [Sefi Roth](https://www.lse.ac.uk/geography-and-environment/people/academic-staff/sefi-roth)). Most recent version: [PDF](https://osf.io/preprints/socarxiv/tcnad/)
 
 ---
 
