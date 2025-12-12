@@ -17,13 +17,17 @@ Prior to my current appointment, I worked at the High Meadows Environmental Inst
 
 **Selected current work:**
 
-**Climate shift uncertainty and economic damages**. with [Romain Fillon](https://romainfillon.github.io/) and [Gernot Wagner](https://gwagner.com/). [PDF](https://www.ifo.de/DocDL/cesifo1_wp12289.pdf) (<font color="rgb(148, 148, 0)">New working paper</font>)
+- **Climate shift uncertainty and economic damages** with [Romain Fillon](https://romainfillon.github.io/) and [Gernot Wagner](https://gwagner.com/). (<font color="rgb(148, 148, 0)">New working paper: </font>[PDF](https://www.ifo.de/DocDL/cesifo1_wp12289.pdf))
+- **Global inequalities in weather forecasts** with [Jeffrey Shrader](https://jeffreyshrader.com/). (<font color="rgb(148, 148, 0)">Updated working paper</font>: [PDF](https://osf.io/preprints/socarxiv/7e2jf))
+- **Some Like It Cold: The Persistent Cost of Higher Temperatures in European Economic Sectors** with [Ben Groom](https://www.lse.ac.uk/granthaminstitute/profile/ben-groom/) and [Sefi Roth](https://www.lse.ac.uk/geography-and-environment/people/academic-staff/sefi-roth). [PDF](https://osf.io/preprints/socarxiv/tcnad/)
 
 **Selected publications:**
 
 - **Global variation in the preferred temperature for recreational outdoor activity**. *Journal of Environmental Economics and Management*, 2024. [PDF](https://doi.org/10.1016/j.jeem.2024.103032)
+- **Seasonal temperature variability and economic cycles**. *Journal of Macroeconomics*, 2024 [PDF](http://dx.doi.org/10.1016/j.jmacro.2023.103568).
+- **Temperature variability and long-run economic development**. **Journal of Environmental Economics and Management**, 2023 [PDF](https://doi.org/10.1016/j.jeem.2023.102840)
 - **Global benefits of the international diffusion of carbon pricing policies** with [Adil Mohommad](https://blogs.imf.org/bloggers/adil-mohommad/) and [Gregor Schwerhoff](https://blogs.imf.org/bloggers/gregor-schwerhoff/). *Nature Climate Change*, 2023. [PDF](https://www.nature.com/articles/s41558-023-01710-8)
-
+- **Policy sequencing towards carbon pricing among the world’s largest emitters** with [Adil Mohommad](https://blogs.imf.org/bloggers/adil-mohommad/) and [Gregor Schwerhoff](https://blogs.imf.org/bloggers/gregor-schwerhoff/). *Nature Climate Change*, 2022 [PDF](https://www.nature.com/articles/s41558-022-01538-8)
 
 
 
