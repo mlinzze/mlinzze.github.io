@@ -6,64 +6,25 @@ permalink: /research/
 
 <h1 id="foo">Work in Progress (selection)</h1>
 
----
-
 **Forecasts and Projected Mortality from Climate Change**<br />
 with [Laura Bakkensen](https://www.laurabakkensen.com/), [Derek Lemoine](https://www.dereklemoine.com/), [Jeffrey Shrader](https://jeffreyshrader.com/), and [Stephan Thies](https://www.sipa.columbia.edu/communities-connections/faculty/stephan-thies)
 
----
-
 **The value of the bee: Weather and pollination ecosystem services**<br />
-
----
 
 **Climate policy and public opinion in Germany**<br />
 with [Dennis Abel](https://www.gesis.org/en/institute/about-us/staff/person/Dennis.Abel) and [Stefan Juenger](https://stefanjuenger.github.io/)
 
----
-
 **Heat and health**<br />
 with [Francesco Savazzi](https://www.linkedin.com/in/francesco-savazzi-05982013a/?originalSubdomain=fr) and [Leonie Wenz](https://www.pik-potsdam.de/~wenz/)
 
----
-
 <h1 id="foo">Working Papers</h1>
 
----
-
-**Deforestation and structural change – The case of tourism in Brazil**<br />
+- **Deforestation and structural change – The case of tourism in Brazil**<br />
 Most recent version: [PDF](https://mlinsenmeier.com/assets/files/Linsenmeier_Deforestation_Tourism_Brazil.pdf)<br />
-
-<details>
-  <summary>Abstract</summary>
-
-  <span class="small">
-  Deforestation in the tropics is a major driver of climate change. This paper studies the role of local structural change for reducing deforestation in developing countries and emerging economies. The paper focuses on tourism in Brazil as a case study. The paper combines an empirical econometric analysis with a quantitative spatial model, utilizing a granular and rich dataset that includes satellite imagery, individual-level census micro-data, establishment-level tourism data, and administrative social insurance data, among other sources. Our findings indicate that domestic and international tourism in Brazil substantially increased employment in tourism-related industries but lowered local wages, with its employment effects spilling over into other industries and nearby locations. Furthermore, simulations with our calibrated model suggest that tourism-related traded services reduced deforestation by providing local employment opportunities outside agriculture. This effect is particularly pronounced in the Amazon region.
-  </span>
-</details>
-
----
-
-**Quantifying the direct and indirect benefits of climate policies in the USA**<br />
+- **Quantifying the direct and indirect benefits of climate policies in the USA**<br />
 with [Mitali Das](https://www.imf.org/en/Research/Researcher-CV/Author/Das-Mitali?AuthID=267#Background) and [Gregor Schwerhoff](https://blogs.imf.org/bloggers/gregor-schwerhoff/)<br />
 Most recent version: [PDF](https://www.imf.org/-/media/Files/Publications/WP/2024/English/wpiea2024198-print-pdf.ashx)<br />
-
-<details>
-  <summary>Abstract</summary>
-
-  <img src="{{ '/assets/images/uspolicies.png' | relative_url }}"
-       alt="Benefits of policy diffusion in terms of geographical coverage"
-       style="float:right; width:100%; margin:0 1em 1em 1em;">
-
-  <span class="small">
-  Climate policy at the subnational level is sometimes framed as being counterproductive, because climate change is considered a collective action problem that can be best addressed in a coalition that should be as large as possible. Using comprehensive data from US states on climate policy and policy outcomes, we show that state-level policy is effective in accelerating the adoption of solar energy. Crucially, however, state policies also have positive spillovers to other states, by making it more likely that neighboring states adopt climate policy as well. By proportionally attributing the spillover effects, we find that many US states achieve more climate benefits through the spillovers to other states than within their own jurisdiction. In a further step, we distinguish between climate policies in the energy sector and policies addressed either at other sectors or greenhouse gas emission (GHG) reductions generally. We find that climate policies in the energy sector are distinct from other climate policies in two ways: They have a significant effect on solar capacity growth and they diffuse more broadly.
-  </span>
-</details>
-
-
----
-
-**The socioeconomic benefits of weather forecasts**<br />
+- **The socioeconomic benefits of weather forecasts**<br />
 with [Hannah Farkas](https://www.sipa.columbia.edu/communities-connections/faculty/hannah-farkas), [Marta Talevi](https://sites.google.com/view/marta-talevi), [Paolo Avner](https://blogs.worldbank.org/team/paolo-avner), [Bramka Arga Jafino](https://blogs.worldbank.org/team/bramka-arga-jafino) and [Moussa Sidibe](https://www.gfdrr.org/en/meet-our-team)<br />
 Most recent version: [PDF](https://openknowledge.worldbank.org/handle/10986/43709)<br />
 
