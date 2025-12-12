@@ -2,6 +2,7 @@
 layout: single
 title: ""
 permalink: /policy/
+classes: wide
 ---
 
 

@@ -5,6 +5,7 @@
 #layout: home
 layout: single
 author_profile: true
+classes: wide
 ---
 
 **About me**
@@ -14,3 +15,5 @@ I am an environmental economist. My main [research interests](https://mlinsenmei
  My work has been published in leading interdisciplinary journals (e.g. Nature Climate Change) and economics field journals (e.g. Journal of Environmental Economics and Management). My research seeks to contribute to public debate and to better [policies](https://mlinsenmeier.com/policy/) and involves collaborations with the [International Monetary Fund](https://www.imf.org/), the [World Bank](https://www.worldbank.org/), and other national and international organisations.
 
 Prior to my current appointment, I worked at the High Meadows Environmental Institute at [Princeton University](https://environment.princeton.edu/) and at the Climate School at [Columbia University](https://www.climate.columbia.edu/). I hold a PhD in Environmental Economics from the [London School of Economics and Political Science](http://www.lse.ac.uk/), where my PhD thesis won the Best Doctoral Dissertation Award by the [European Association of Environmental and Resource Economists](https://www.eaere.org/best-european-doctoral-dissertation-award).
+
+**Selected publications:**
