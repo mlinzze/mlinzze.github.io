@@ -22,6 +22,8 @@ permalink: /research/
 
 ---
 
+**A methodology for comprehensive national climate damage assessments applied to the UK** (with James Rising, Simon Dietz, Marion Dumas, Jarmo Kikstra, Timothy M. Lenton). Most recent version: [PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6184740)
+
 **Deforestation and structural change – The case of tourism in Brazil**. Most recent version: [PDF](https://mlinsenmeier.com/assets/files/Linsenmeier_Deforestation_Tourism_Brazil.pdf)
 
 **Quantifying the direct and indirect benefits of climate policies in the USA** (with [Mitali Das](https://www.imf.org/en/Research/Researcher-CV/Author/Das-Mitali?AuthID=267#Background) and [Gregor Schwerhoff](https://blogs.imf.org/bloggers/gregor-schwerhoff/)). Most recent version: [PDF](https://www.imf.org/-/media/Files/Publications/WP/2024/English/wpiea2024198-print-pdf.ashx)
