@@ -8,13 +8,11 @@ permalink: /research/
 
 ---
 
-**Forecasts and Projected Mortality from Climate Change** (with [Laura Bakkensen](https://www.laurabakkensen.com/), [Derek Lemoine](https://www.dereklemoine.com/), [Jeffrey Shrader](https://jeffreyshrader.com/), and [Stephan Thies](https://www.sipa.columbia.edu/communities-connections/faculty/stephan-thies))
+**Heat and health** (with [Francesco Savazzi](https://www.linkedin.com/in/francesco-savazzi-05982013a/?originalSubdomain=fr) and [Leonie Wenz](https://www.pik-potsdam.de/~wenz/))
 
 **The value of the bee: Weather and pollination ecosystem services**
 
 **Climate policy and public opinion in Germany** (with [Dennis Abel](https://www.gesis.org/en/institute/about-us/staff/person/Dennis.Abel) and [Stefan Juenger](https://stefanjuenger.github.io/))
-
-**Heat and health** (with [Francesco Savazzi](https://www.linkedin.com/in/francesco-savazzi-05982013a/?originalSubdomain=fr) and [Leonie Wenz](https://www.pik-potsdam.de/~wenz/))
 
 ---
 
@@ -42,6 +40,9 @@ permalink: /research/
 <h1 id="foo">Publications and accepted papers</h1>
 
 ---
+
+
+**Weather Forecasts Become More Important for Reducing Mortality as the Climate Warms** (with [Jeffrey Shrader](https://jeffreyshrader.com/), [Stephan Thies](https://www.sipa.columbia.edu/communities-connections/faculty/stephan-thies), [Laura Bakkensen](https://www.laurabakkensen.com/), and [Derek Lemoine](https://www.dereklemoine.com/)). *Proceedings of the National Academy of Sciences* (accepted), 2026.
 
 **Global variation in the preferred temperature for recreational outdoor activity**. *Journal of Environmental Economics and Management*, 2024. [PDF](https://doi.org/10.1016/j.jeem.2024.103032)
 
