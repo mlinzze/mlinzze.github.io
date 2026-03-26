@@ -4,23 +4,9 @@ title: ""
 permalink: /research/
 ---
 
-<h1 id="foo">Work in Progress (selection)</h1>
-
----
-
-**Heat and health** (with [Francesco Savazzi](https://www.linkedin.com/in/francesco-savazzi-05982013a/?originalSubdomain=fr) and [Leonie Wenz](https://www.pik-potsdam.de/~wenz/))
-
-**The value of the bee: Weather and pollination ecosystem services**
-
-**Climate policy and public opinion in Germany** (with [Dennis Abel](https://www.gesis.org/en/institute/about-us/staff/person/Dennis.Abel) and [Stefan Juenger](https://stefanjuenger.github.io/))
-
----
-
 <h1 id="foo">Working Papers</h1>
 
 ---
-
-**A methodology for comprehensive national climate damage assessments applied to the UK** (with James Rising, Simon Dietz, Marion Dumas, Jarmo Kikstra, Timothy M. Lenton). Most recent version: [PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6184740)
 
 **Deforestation and structural change – The case of tourism in Brazil**. Most recent version: [PDF](https://mlinsenmeier.com/assets/files/Linsenmeier_Deforestation_Tourism_Brazil.pdf)
 
@@ -41,6 +27,7 @@ permalink: /research/
 
 ---
 
+**A methodology for comprehensive national climate damage assessments applied to the UK** (with James Rising, Simon Dietz, Marion Dumas, Jarmo Kikstra, Timothy M. Lenton). *Nature Climate Change* (accepted), 2026. [PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6184740)
 
 **Weather Forecasts Become More Important for Reducing Mortality as the Climate Warms** (with [Jeffrey Shrader](https://jeffreyshrader.com/), [Stephan Thies](https://www.sipa.columbia.edu/communities-connections/faculty/stephan-thies), [Laura Bakkensen](https://www.laurabakkensen.com/), and [Derek Lemoine](https://www.dereklemoine.com/)). *Proceedings of the National Academy of Sciences* (accepted), 2026.
 

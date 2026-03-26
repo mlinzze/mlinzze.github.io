@@ -17,10 +17,11 @@ Prior to my current appointment, I worked at the High Meadows Environmental Inst
 
 **Selected current work:**
 
+- Weather Forecasts Become More Important for Reducing Mortality as the Climate Warms (with [Laura Bakkensen](https://www.laurabakkensen.com/), [Derek Lemoine](https://www.dereklemoine.com/), [Jeffrey Shrader](https://jeffreyshrader.com/), and [Stephan Thies](https://www.sipa.columbia.edu/communities-connections/faculty/stephan-thies)). (<font color="rgb(248, 62, 45)">Accepted in PNAS</font>)
+- A methodology for comprehensive national climate damage assessments applied to the UK (with James Rising, Simon Dietz, Marion Dumas, Jarmo Kikstra, Timothy M. Lenton). (<font color="rgb(248, 62, 45)">Accepted in Nature Climate Change</font>)
 - Climate shift uncertainty and economic damages (with [Romain Fillon](https://romainfillon.github.io/) and [Gernot Wagner](https://gwagner.com/)). (<font color="rgb(148, 148, 0)">New working paper: </font>[PDF](https://www.ifo.de/DocDL/cesifo1_wp12289.pdf))
 - Global inequalities in weather forecasts (with [Jeffrey Shrader](https://jeffreyshrader.com/)). (<font color="rgb(148, 148, 0)">Updated working paper</font>: [PDF](https://osf.io/preprints/socarxiv/7e2jf))
-- Some Like It Cold: The Persistent Cost of Higher Temperatures in European Economic Sectors (with [Ben Groom](https://www.lse.ac.uk/granthaminstitute/profile/ben-groom/) and [Sefi Roth](https://www.lse.ac.uk/geography-and-environment/people/academic-staff/sefi-roth)). [PDF](https://osf.io/preprints/socarxiv/tcnad/)
-- Weather Forecasts Become More Important for Reducing Mortality as the Climate Warms (with [Laura Bakkensen](https://www.laurabakkensen.com/), [Derek Lemoine](https://www.dereklemoine.com/), [Jeffrey Shrader](https://jeffreyshrader.com/), and [Stephan Thies](https://www.sipa.columbia.edu/communities-connections/faculty/stephan-thies)). (<font color="rgb(148, 148, 0)">Accepted in PNAS</font>)
+- Some Like It Cold: The Persistent Cost of Higher Temperatures in European Economic Sectors (with [Ben Groom](https://www.lse.ac.uk/granthaminstitute/profile/ben-groom/) and [Sefi Roth](https://www.lse.ac.uk/geography-and-environment/people/academic-staff/sefi-roth)). (<font color="rgb(148, 148, 0)">Updated working paper</font>: [PDF](https://osf.io/preprints/socarxiv/tcnad/))
 
 **Selected publications:**
 
