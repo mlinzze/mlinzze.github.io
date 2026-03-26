@@ -17,14 +17,14 @@ Prior to my current appointment, I worked at the High Meadows Environmental Inst
 
 **Selected current work:**
 
-- Weather Forecasts Become More Important for Reducing Mortality as the Climate Warms (with [Laura Bakkensen](https://www.laurabakkensen.com/), [Derek Lemoine](https://www.dereklemoine.com/), [Jeffrey Shrader](https://jeffreyshrader.com/), and [Stephan Thies](https://www.sipa.columbia.edu/communities-connections/faculty/stephan-thies)). (<font color="rgb(248, 62, 45)">Accepted in PNAS</font>)
-- A methodology for comprehensive national climate damage assessments applied to the UK (with James Rising, Simon Dietz, Marion Dumas, Jarmo Kikstra, Timothy M. Lenton). (<font color="rgb(248, 62, 45)">Accepted in Nature Climate Change</font>)
 - Climate shift uncertainty and economic damages (with [Romain Fillon](https://romainfillon.github.io/) and [Gernot Wagner](https://gwagner.com/)). (<font color="rgb(148, 148, 0)">New working paper: </font>[PDF](https://www.ifo.de/DocDL/cesifo1_wp12289.pdf))
 - Global inequalities in weather forecasts (with [Jeffrey Shrader](https://jeffreyshrader.com/)). (<font color="rgb(148, 148, 0)">Updated working paper</font>: [PDF](https://osf.io/preprints/socarxiv/7e2jf))
 - Some Like It Cold: The Persistent Cost of Higher Temperatures in European Economic Sectors (with [Ben Groom](https://www.lse.ac.uk/granthaminstitute/profile/ben-groom/) and [Sefi Roth](https://www.lse.ac.uk/geography-and-environment/people/academic-staff/sefi-roth)). (<font color="rgb(148, 148, 0)">Updated working paper</font>: [PDF](https://osf.io/preprints/socarxiv/tcnad/))
 
-**Selected publications:**
+**Selected recent publications:**
 
+- Weather Forecasts Become More Important for Reducing Mortality as the Climate Warms (with [Laura Bakkensen](https://www.laurabakkensen.com/), [Derek Lemoine](https://www.dereklemoine.com/), [Jeffrey Shrader](https://jeffreyshrader.com/), and [Stephan Thies](https://www.sipa.columbia.edu/communities-connections/faculty/stephan-thies)). (<font color="rgb(248, 62, 45)">Accepted in PNAS</font>)
+- A methodology for comprehensive national climate damage assessments applied to the UK (with [James Rising](https://existencia.org/pro/), [Simon Dietz](https://simondietz.com/), [Marion Dumas](https://mariondumas.github.io/), [Jarmo Kikstra](https://iiasa.ac.at/staff/jarmo-kikstra), [Timothy M. Lenton](https://experts.exeter.ac.uk/19727-tim-lenton)). (<font color="rgb(248, 62, 45)">Accepted in Nature Climate Change</font>)
 - Global variation in the preferred temperature for recreational outdoor activity. *Journal of Environmental Economics and Management*, 2024. [PDF](https://doi.org/10.1016/j.jeem.2024.103032)
 - Seasonal temperature variability and economic cycles. *Journal of Macroeconomics*, 2024. [PDF](http://dx.doi.org/10.1016/j.jmacro.2023.103568)
 - Temperature variability and long-run economic development. *Journal of Environmental Economics and Management*, 2023. [PDF](https://doi.org/10.1016/j.jeem.2023.102840)

@@ -8,18 +8,17 @@ permalink: /research/
 
 ---
 
-**Deforestation and structural change – The case of tourism in Brazil**. Most recent version: [PDF](https://mlinsenmeier.com/assets/files/Linsenmeier_Deforestation_Tourism_Brazil.pdf)
+**Climate shift uncertainty and economic damages** (with [Romain Fillon](https://romainfillon.github.io/) and [Gernot Wagner](https://gwagner.com/)). Most recent version: [PDF](https://www.ifo.de/DocDL/cesifo1_wp12289.pdf)<br />
 
 **Quantifying the direct and indirect benefits of climate policies in the USA** (with [Mitali Das](https://www.imf.org/en/Research/Researcher-CV/Author/Das-Mitali?AuthID=267#Background) and [Gregor Schwerhoff](https://blogs.imf.org/bloggers/gregor-schwerhoff/)). Most recent version: [PDF](https://www.imf.org/-/media/Files/Publications/WP/2024/English/wpiea2024198-print-pdf.ashx)
 
 **The socioeconomic benefits of weather forecasts** (with [Hannah Farkas](https://www.sipa.columbia.edu/communities-connections/faculty/hannah-farkas), [Marta Talevi](https://sites.google.com/view/marta-talevi), [Paolo Avner](https://blogs.worldbank.org/team/paolo-avner), [Bramka Arga Jafino](https://blogs.worldbank.org/team/bramka-arga-jafino) and [Moussa Sidibe](https://www.gfdrr.org/en/meet-our-team)). Most recent version: [PDF](https://openknowledge.worldbank.org/handle/10986/43709)
 
-**Climate shift uncertainty and economic damages** (with [Romain Fillon](https://romainfillon.github.io/) and [Gernot Wagner](https://gwagner.com/)). Most recent version: [PDF](https://www.ifo.de/DocDL/cesifo1_wp12289.pdf)<br />
-
-
 **Global inequalities in weather forecasts** (with [Jeffrey Shrader](https://jeffreyshrader.com/)). Most recent version: [PDF](https://osf.io/preprints/socarxiv/7e2jf)
 
 **Some Like It Cold: The Persistent Cost of Higher Temperatures in European Economic Sectors** (with [Ben Groom](https://www.lse.ac.uk/granthaminstitute/profile/ben-groom/) and [Sefi Roth](https://www.lse.ac.uk/geography-and-environment/people/academic-staff/sefi-roth)). Most recent version: [PDF](https://osf.io/preprints/socarxiv/tcnad/)
+
+**Deforestation and structural change – The case of tourism in Brazil**. Most recent version: [PDF](https://mlinsenmeier.com/assets/files/Linsenmeier_Deforestation_Tourism_Brazil.pdf)
 
 ---
 
@@ -27,7 +26,7 @@ permalink: /research/
 
 ---
 
-**A methodology for comprehensive national climate damage assessments applied to the UK** (with James Rising, Simon Dietz, Marion Dumas, Jarmo Kikstra, Timothy M. Lenton). *Nature Climate Change* (accepted), 2026. [PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6184740)
+**A methodology for comprehensive national climate damage assessments applied to the UK** (with [James Rising](https://existencia.org/pro/), [Simon Dietz](https://simondietz.com/), [Marion Dumas](https://mariondumas.github.io/), [Jarmo Kikstra](https://iiasa.ac.at/staff/jarmo-kikstra), [Timothy M. Lenton](https://experts.exeter.ac.uk/19727-tim-lenton)). *Nature Climate Change* (accepted), 2026. [PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6184740)
 
 **Weather Forecasts Become More Important for Reducing Mortality as the Climate Warms** (with [Jeffrey Shrader](https://jeffreyshrader.com/), [Stephan Thies](https://www.sipa.columbia.edu/communities-connections/faculty/stephan-thies), [Laura Bakkensen](https://www.laurabakkensen.com/), and [Derek Lemoine](https://www.dereklemoine.com/)). *Proceedings of the National Academy of Sciences* (accepted), 2026.
 
