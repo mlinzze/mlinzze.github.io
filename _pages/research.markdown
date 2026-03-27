@@ -16,8 +16,6 @@ permalink: /research/
 
 **Global inequalities in weather forecasts** (with [Jeffrey Shrader](https://jeffreyshrader.com/)). Most recent version: [PDF](https://osf.io/preprints/socarxiv/7e2jf)
 
-**Some Like It Cold: The Persistent Cost of Higher Temperatures in European Economic Sectors** (with [Ben Groom](https://www.lse.ac.uk/granthaminstitute/profile/ben-groom/) and [Sefi Roth](https://www.lse.ac.uk/geography-and-environment/people/academic-staff/sefi-roth)). Most recent version: [PDF](https://osf.io/preprints/socarxiv/tcnad/)
-
 **Deforestation and structural change – The case of tourism in Brazil**. Most recent version: [PDF](https://mlinsenmeier.com/assets/files/Linsenmeier_Deforestation_Tourism_Brazil.pdf)
 
 ---
@@ -26,9 +24,11 @@ permalink: /research/
 
 ---
 
+**Some Like It Cold: The Persistent Cost of Higher Temperatures in European Economic Sectors** (with [Ben Groom](https://www.lse.ac.uk/granthaminstitute/profile/ben-groom/) and [Sefi Roth](https://www.lse.ac.uk/geography-and-environment/people/academic-staff/sefi-roth)). *Nature Communications* (accepted), 2026. [PDF](https://osf.io/preprints/socarxiv/tcnad/)
+
 **A methodology for comprehensive national climate damage assessments applied to the UK** (with [James Rising](https://existencia.org/pro/), [Simon Dietz](https://simondietz.com/), [Marion Dumas](https://mariondumas.github.io/), [Jarmo Kikstra](https://iiasa.ac.at/staff/jarmo-kikstra), [Timothy M. Lenton](https://experts.exeter.ac.uk/19727-tim-lenton)). *Nature Climate Change* (accepted), 2026. [PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6184740)
 
-**Weather Forecasts Become More Important for Reducing Mortality as the Climate Warms** (with [Jeffrey Shrader](https://jeffreyshrader.com/), [Stephan Thies](https://www.sipa.columbia.edu/communities-connections/faculty/stephan-thies), [Laura Bakkensen](https://www.laurabakkensen.com/), and [Derek Lemoine](https://www.dereklemoine.com/)). *Proceedings of the National Academy of Sciences* (accepted), 2026.
+**Weather Forecasts Become More Important for Reducing Mortality as the Climate Warms** (with [Jeffrey Shrader](https://jeffreyshrader.com/), [Stephan Thies](https://www.sipa.columbia.edu/communities-connections/faculty/stephan-thies), [Laura Bakkensen](https://www.laurabakkensen.com/), and [Derek Lemoine](https://www.dereklemoine.com/)). *PNAS* (accepted), 2026.
 
 **Global variation in the preferred temperature for recreational outdoor activity**. *Journal of Environmental Economics and Management*, 2024. [PDF](https://doi.org/10.1016/j.jeem.2024.103032)
 
