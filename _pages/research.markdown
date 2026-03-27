@@ -24,7 +24,7 @@ permalink: /research/
 
 ---
 
-**Some Like It Cold: The Persistent Cost of Higher Temperatures in European Economic Sectors** (with [Ben Groom](https://www.lse.ac.uk/granthaminstitute/profile/ben-groom/) and [Sefi Roth](https://www.lse.ac.uk/geography-and-environment/people/academic-staff/sefi-roth)). *Nature Communications* (accepted), 2026. [PDF](https://osf.io/preprints/socarxiv/tcnad/)
+**Some Like It Cold: Some Like It Cold: Heterogeneity in the Temperature-Economy Relationships in Europe** (with [Ben Groom](https://www.lse.ac.uk/granthaminstitute/profile/ben-groom/) and [Sefi Roth](https://www.lse.ac.uk/geography-and-environment/people/academic-staff/sefi-roth)). *Nature Communications* (accepted), 2026. [PDF](https://osf.io/preprints/socarxiv/tcnad/)
 
 **A methodology for comprehensive national climate damage assessments applied to the UK** (with [James Rising](https://existencia.org/pro/), [Simon Dietz](https://simondietz.com/), [Marion Dumas](https://mariondumas.github.io/), [Jarmo Kikstra](https://iiasa.ac.at/staff/jarmo-kikstra), [Timothy M. Lenton](https://experts.exeter.ac.uk/19727-tim-lenton)). *Nature Climate Change* (accepted), 2026. [PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6184740)
 
