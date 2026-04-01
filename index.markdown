@@ -28,5 +28,5 @@ Prior to my current appointment, I worked at the High Meadows Environmental Inst
 
 **Selected other activities:**
 
-- Together with [Jeffrey Shrader](https://jeffreyshrader.com/) we published an invited blog post on VoxDev on our work on weather forecasts. You can find it [here](https://voxdev.org/topic/energy-environment/cloudy-chance-no-clouds-why-weather-forecasts-are-worse-low-income). A related, similarly accessible article on weather forecasts can be found on Our World in Data, which also cites our work: [here](https://ourworldindata.org/weather-forecasts).
-- The *Frankfurter Allgemeine Zeitung (FAZ)*, one of Germany's main newspapers, published a portrait on my appointment at Goethe University [German only]. You can find it [here](https://www.faz.net/aktuell/karriere-hochschule/die-wettervorhersage-im-klimawandel-manuel-linsenmeier-accg-110709599.html).
+- Jeffrey Shrader and I published an invited post on VoxDev summarizing our research on weather forecasts ([link](https://voxdev.org/topic/energy-environment/cloudy-chance-no-clouds-why-weather-forecasts-are-worse-low-income)). For a broader overview of the topic, Our World in Data features a related article that draws on our work ([link](https://ourworldindata.org/weather-forecasts)).
+- My appointment at Goethe University was featured in a portrait in the *Frankfurter Allgemeine Zeitung* (FAZ), one of Germany's leading newspapers ([link, German only](https://www.faz.net/aktuell/karriere-hochschule/die-wettervorhersage-im-klimawandel-manuel-linsenmeier-accg-110709599.html)).
