@@ -26,7 +26,7 @@ permalink: /research/
 
 **Economic specialization and heterogeneous temperature-economy relationships suggest net costs of climate change in Europe** (with [Ben Groom](https://www.lse.ac.uk/granthaminstitute/profile/ben-groom/) and [Sefi Roth](https://www.lse.ac.uk/geography-and-environment/people/academic-staff/sefi-roth)). *Nature Communications*, 2026. [PDF](https://doi.org/10.1038/s41467-026-73341-4)
 
-**A methodology for comprehensive national climate damage assessments applied to the UK** (with [James Rising](https://existencia.org/pro/), [Simon Dietz](https://simondietz.com/), [Marion Dumas](https://mariondumas.github.io/), [Jarmo Kikstra](https://iiasa.ac.at/staff/jarmo-kikstra), [Timothy M. Lenton](https://experts.exeter.ac.uk/19727-tim-lenton)). *Nature Climate Change* (accepted), 2026. [PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6184740)
+**A methodology for comprehensive national climate damage assessments applied to the UK** (with [James Rising](https://existencia.org/pro/), [Simon Dietz](https://simondietz.com/), [Marion Dumas](https://mariondumas.github.io/), [Jarmo Kikstra](https://iiasa.ac.at/staff/jarmo-kikstra), [Timothy M. Lenton](https://experts.exeter.ac.uk/19727-tim-lenton)). *Nature Climate Change*, 2026. [PDF](https://www.nature.com/articles/s41558-026-02665-2)
 
 **Weather Forecasts Become More Important for Reducing Mortality as the Climate Warms** (with [Jeffrey Shrader](https://jeffreyshrader.com/), [Stephan Thies](https://www.sipa.columbia.edu/communities-connections/faculty/stephan-thies), [Laura Bakkensen](https://www.laurabakkensen.com/), and [Derek Lemoine](https://www.dereklemoine.com/)). *PNAS*, 2026. [PDF](https://www.pnas.org/doi/10.1073/pnas.2523372123)
 
