@@ -17,8 +17,8 @@ Prior to my current appointment, I worked at the High Meadows Environmental Inst
 
 **Selected current work:**
 
-- Climate shift uncertainty and economic damages (with [Romain Fillon](https://romainfillon.github.io/) and [Gernot Wagner](https://gwagner.com/)). (<font color="rgb(148, 148, 0)">New working paper: </font>[PDF](https://www.ifo.de/DocDL/cesifo1_wp12289.pdf))
-- Global inequalities in weather forecasts (with [Jeffrey Shrader](https://jeffreyshrader.com/)). (<font color="rgb(148, 148, 0)">Updated working paper</font>: [PDF](https://osf.io/preprints/socarxiv/7e2jf))
+- Climate shift uncertainty and economic damages (with [Romain Fillon](https://romainfillon.github.io/) and [Gernot Wagner](https://gwagner.com/)). (<font color="rgb(148, 148, 0)">Updated working paper coming soon. Old version: </font>[PDF](https://www.ifo.de/DocDL/cesifo1_wp12289.pdf))
+- Global inequalities in weather forecasts (with [Jeffrey Shrader](https://jeffreyshrader.com/)). (<font color="rgb(148, 148, 0)">Nature Communications (accepted)</font>: [PDF](https://osf.io/preprints/socarxiv/7e2jf))
 
 **Selected recent publications:**
 
