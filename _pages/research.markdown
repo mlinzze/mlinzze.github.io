@@ -14,8 +14,6 @@ permalink: /research/
 
 **The socioeconomic benefits of weather forecasts** (with [Hannah Farkas](https://www.sipa.columbia.edu/communities-connections/faculty/hannah-farkas), [Marta Talevi](https://sites.google.com/view/marta-talevi), [Paolo Avner](https://blogs.worldbank.org/team/paolo-avner), [Bramka Arga Jafino](https://blogs.worldbank.org/team/bramka-arga-jafino) and [Moussa Sidibe](https://www.gfdrr.org/en/meet-our-team)). Most recent version: [PDF](https://openknowledge.worldbank.org/handle/10986/43709)
 
-**Global inequalities in weather forecasts** (with [Jeffrey Shrader](https://jeffreyshrader.com/)). Most recent version: [PDF](https://osf.io/preprints/socarxiv/7e2jf)
-
 **Deforestation and structural change – The case of tourism in Brazil**. Most recent version: [PDF](https://mlinsenmeier.com/assets/files/Linsenmeier_Deforestation_Tourism_Brazil.pdf)
 
 ---
@@ -23,6 +21,8 @@ permalink: /research/
 <h1 id="foo">Publications and accepted papers</h1>
 
 ---
+
+- **Global inequalities in weather forecasts** (with [Jeffrey Shrader](https://jeffreyshrader.com/)). (<font color="rgb(148, 148, 0)">Nature Communications (accepted)</font>: [PDF](https://osf.io/preprints/socarxiv/7e2jf))
 
 **Economic specialization and heterogeneous temperature-economy relationships suggest net costs of climate change in Europe** (with [Ben Groom](https://www.lse.ac.uk/granthaminstitute/profile/ben-groom/) and [Sefi Roth](https://www.lse.ac.uk/geography-and-environment/people/academic-staff/sefi-roth)). *Nature Communications*, 2026. [PDF](https://doi.org/10.1038/s41467-026-73341-4)
 
