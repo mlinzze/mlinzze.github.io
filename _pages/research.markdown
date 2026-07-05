@@ -22,7 +22,7 @@ permalink: /research/
 
 ---
 
-**Global inequalities in weather forecasts** (with [Jeffrey Shrader](https://jeffreyshrader.com/)). *Nature Communications (accepted)*, 2026. [PDF](https://osf.io/preprints/socarxiv/7e2jf))
+**Global inequalities in weather forecasts** (with [Jeffrey Shrader](https://jeffreyshrader.com/)). *Nature Communications (accepted)*, 2026. [PDF](https://osf.io/preprints/socarxiv/7e2jf)
 
 **Economic specialization and heterogeneous temperature-economy relationships suggest net costs of climate change in Europe** (with [Ben Groom](https://www.lse.ac.uk/granthaminstitute/profile/ben-groom/) and [Sefi Roth](https://www.lse.ac.uk/geography-and-environment/people/academic-staff/sefi-roth)). *Nature Communications*, 2026. [PDF](https://doi.org/10.1038/s41467-026-73341-4)
 
