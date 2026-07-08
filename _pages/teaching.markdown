@@ -15,6 +15,12 @@ Applied Econometrics for Policy Evaluation (BSc; Winter 2026/27)
 - Link to LSF: [here](https://qis.server.uni-frankfurt.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=429937&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung)
 - Link to OLAT for course enrollment: coming soon
 
+Environmental Economics: Theory and Applications (MSc; Winter 2026/27)
+- Syllabus (from previous year): [here](https://mlinsenmeier.com/assets/files/ee_syllabus.pdf)
+- Link to LSF: [here](https://qis.server.uni-frankfurt.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=427691&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung)
+- Link to OLAT for course enrollment: coming soon
+
+
 ---
 
 **Summer 2026**:
