@@ -10,11 +10,9 @@ permalink: /research/
 
 **Climate shift uncertainty and economic damages** (with [Romain Fillon](https://romainfillon.github.io/) and [Gernot Wagner](https://gwagner.com/)). Most recent version: [PDF](https://www.ifo.de/DocDL/cesifo1_wp12289.pdf)<br />
 
-**Quantifying the direct and indirect benefits of climate policies in the USA** (with [Mitali Das](https://www.imf.org/en/Research/Researcher-CV/Author/Das-Mitali?AuthID=267#Background) and [Gregor Schwerhoff](https://blogs.imf.org/bloggers/gregor-schwerhoff/)). Most recent version: [PDF](https://www.imf.org/-/media/Files/Publications/WP/2024/English/wpiea2024198-print-pdf.ashx)
+**Deforestation and structural change – The case of tourism in Brazil**. Most recent version: [PDF](https://mlinsenmeier.com/assets/files/Linsenmeier_Deforestation_Tourism_Brazil.pdf)
 
 **The socioeconomic benefits of weather forecasts** (with [Hannah Farkas](https://www.sipa.columbia.edu/communities-connections/faculty/hannah-farkas), [Marta Talevi](https://sites.google.com/view/marta-talevi), [Paolo Avner](https://blogs.worldbank.org/team/paolo-avner), [Bramka Arga Jafino](https://blogs.worldbank.org/team/bramka-arga-jafino) and [Moussa Sidibe](https://www.gfdrr.org/en/meet-our-team)). Most recent version: [PDF](https://openknowledge.worldbank.org/handle/10986/43709)
-
-**Deforestation and structural change – The case of tourism in Brazil**. Most recent version: [PDF](https://mlinsenmeier.com/assets/files/Linsenmeier_Deforestation_Tourism_Brazil.pdf)
 
 ---
 
@@ -23,6 +21,8 @@ permalink: /research/
 ---
 
 **Global inequalities in weather forecasts** (with [Jeffrey Shrader](https://jeffreyshrader.com/)). *Nature Communications (accepted)*, 2026. [PDF](https://osf.io/preprints/socarxiv/7e2jf)
+
+**Climate policy diffusion across US states** (with [Mitali Das](https://www.imf.org/en/Research/Researcher-CV/Author/Das-Mitali?AuthID=267#Background) and [Gregor Schwerhoff](https://blogs.imf.org/bloggers/gregor-schwerhoff/)). *Energy Economics*, 2026. [PDF](https://doi.org/10.1016/j.eneco.2026.109531)
 
 **Economic specialization and heterogeneous temperature-economy relationships suggest net costs of climate change in Europe** (with [Ben Groom](https://www.lse.ac.uk/granthaminstitute/profile/ben-groom/) and [Sefi Roth](https://www.lse.ac.uk/geography-and-environment/people/academic-staff/sefi-roth)). *Nature Communications*, 2026. [PDF](https://doi.org/10.1038/s41467-026-73341-4)
 

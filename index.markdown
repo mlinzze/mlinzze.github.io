@@ -18,16 +18,19 @@ Prior to my current appointment, I worked at the High Meadows Environmental Inst
 **Selected current work:**
 
 - Climate shift uncertainty and economic damages (with [Romain Fillon](https://romainfillon.github.io/) and [Gernot Wagner](https://gwagner.com/)). <font color="rgb(148, 148, 0)">Working paper: </font>[PDF](https://www.ifo.de/DocDL/cesifo1_wp12289.pdf)
-- Global inequalities in weather forecasts (with [Jeffrey Shrader](https://jeffreyshrader.com/)). <font color="rgb(148, 148, 0)">Accepted in: Nature Communications</font>. [PDF](https://osf.io/preprints/socarxiv/7e2jf)
+- Deforestation and structural change – The case of tourism in Brazil.
 
 **Selected recent publications:**
 
+- Global inequalities in weather forecasts (with [Jeffrey Shrader](https://jeffreyshrader.com/)). <font color="rgb(148, 148, 0)">Nature Communications (accpeted)</font>, 2026. [PDF](https://osf.io/preprints/socarxiv/7e2jf)
+- Climate policy diffusion across US states** (with [Mitali Das](https://www.imf.org/en/Research/Researcher-CV/Author/Das-Mitali?AuthID=267#Background) and [Gregor Schwerhoff](https://blogs.imf.org/bloggers/gregor-schwerhoff/)). <font color="rgb(148, 148, 0)">Energy Economics</font>, 2026. [PDF](https://doi.org/10.1016/j.eneco.2026.109531)
 - Economic specialization and heterogeneous temperature-economy relationships suggest net costs of climate change in Europe (with [Ben Groom](https://www.lse.ac.uk/granthaminstitute/profile/ben-groom/) and [Sefi Roth](https://www.lse.ac.uk/geography-and-environment/people/academic-staff/sefi-roth)). <font color="rgb(148, 148, 0)">Nature Communications</font>, 2026. [PDF](https://doi.org/10.1038/s41467-026-73341-4)
 - Weather Forecasts Become More Important for Reducing Mortality as the Climate Warms (with [Laura Bakkensen](https://www.laurabakkensen.com/), [Derek Lemoine](https://www.dereklemoine.com/), [Jeffrey Shrader](https://jeffreyshrader.com/), and [Stephan Thies](https://www.sipa.columbia.edu/communities-connections/faculty/stephan-thies)). <font color="rgb(248, 62, 45)">PNAS</font>, 2026. [PDF](https://www.pnas.org/doi/10.1073/pnas.2523372123)
 - A methodology for comprehensive national climate damage assessments applied to the UK (with [James Rising](https://existencia.org/pro/), [Simon Dietz](https://simondietz.com/), [Marion Dumas](https://mariondumas.github.io/), [Jarmo Kikstra](https://iiasa.ac.at/staff/jarmo-kikstra), [Timothy M. Lenton](https://experts.exeter.ac.uk/19727-tim-lenton)). <font color="rgb(248, 62, 45)">Nature Climate Change</font>, 2026. [PDF](https://www.nature.com/articles/s41558-026-02665-2)
 
 **Selected other activities:**
 
+- My article on the economic costs of climate change in Europe was recently covered by Deutschlandfunk, Germany's national radio broadcaster ([link, German only](https://www.deutschlandfunk.de/waldbraende-und-klimawandel-hohe-folgekosten-100.html)).
 - Jeffrey Shrader and I published an invited post on VoxDev summarizing our research on weather forecasts ([link](https://voxdev.org/topic/energy-environment/cloudy-chance-no-clouds-why-weather-forecasts-are-worse-low-income)). For a broader overview of the topic, Our World in Data features a related article that draws on our work ([link](https://ourworldindata.org/weather-forecasts)).
 - In April 2026 I am organising a workshop on Climate Impacts and Adaptation at Goethe University. **Update**: Some impressions of the event [here](https://mlinsenmeier.com/workshop-climate-impacts/photos.html).
 - My appointment at Goethe University was featured in a portrait in the *Frankfurter Allgemeine Zeitung* (FAZ), one of Germany's leading newspapers ([link, German only](https://www.faz.net/aktuell/karriere-hochschule/die-wettervorhersage-im-klimawandel-manuel-linsenmeier-accg-110709599.html)).
