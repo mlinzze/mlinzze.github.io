@@ -20,7 +20,7 @@ permalink: /research/
 
 ---
 
-**Global inequalities in weather forecasts** (with [Jeffrey Shrader](https://jeffreyshrader.com/)). *Nature Communications (accepted)*, 2026. [PDF](https://osf.io/preprints/socarxiv/7e2jf)
+**Global inequalities in weather forecasts** (with [Jeffrey Shrader](https://jeffreyshrader.com/)). *Nature Communications*, 2026. [PDF](https://doi.org/10.1038/s41467-026-77630-w)
 
 **Climate policy diffusion across US states** (with [Mitali Das](https://www.imf.org/en/Research/Researcher-CV/Author/Das-Mitali?AuthID=267#Background) and [Gregor Schwerhoff](https://blogs.imf.org/bloggers/gregor-schwerhoff/)). *Energy Economics*, 2026. [PDF](https://doi.org/10.1016/j.eneco.2026.109531)
 
