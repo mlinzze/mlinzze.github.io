@@ -34,11 +34,24 @@ permalink: /research/
 
 **Seasonal temperature variability and economic cycles**. *Journal of Macroeconomics*, 2024. [PDF](http://dx.doi.org/10.1016/j.jmacro.2023.103568)
 
-**Global benefits of the international diffusion of carbon pricing policies** (with [Adil Mohommad](https://blogs.imf.org/bloggers/adil-mohommad/) and [Gregor Schwerhoff](https://blogs.imf.org/bloggers/gregor-schwerhoff/)). *Nature Climate Change*, 2023. [PDF](https://www.nature.com/articles/s41558-023-01710-8)
+**Global benefits of the international diffusion of carbon pricing policies** (with [Adil Mohommad](https://blogs.imf.org/bloggers/adil-mohommad/) and [Gregor Schwerhoff](https://blogs.imf.org/bloggers/gregor-schwerhoff/)). *Nature Climate Change*, 2023. [PDF](https://www.nature.com/articles/s41558-023-01710-8).
+Selected coverage:
+<a href="https://www.epa.gov/system/files/documents/2023-12/epa_scghg_2023_report_final.pdf" style="color: #b04a00;">US Environmental Protection Agency</a>,
+<a href="https://doi.org/10.1787/60e338a2-en" style="color: #b04a00;">OECD</a>,
+<a href="https://www.pmiclimate.org/publication/balancing-act-political-economy-and-pursuit-ambitious-carbon-pricing-developing" style="color: #b04a00;">World Bank</a>,
+<a href="https://www.wto.org/english/res_e/booksp_e/climate_action_e.pdf" style="color: #b04a00;">WTO / IMF / UNCTAD</a>,
+<a href="https://climate-advisory-board.europa.eu/reports-and-publications/towards-eu-climate-neutrality-progress-policy-gaps-and-opportunities" style="color: #b04a00;">European Scientific Advisory Board on Climate Change</a>,
+<a href="https://citizensclimatelobby.org/carbon-pricing-studies/" style="color: #b04a00;">Citizens’ Climate Lobby</a>,
+<a href="https://policyintegrity.org/documents/Comments_to_EPA_on_Rescission_of_Motor_Vehicles_Emissions_Standards.pdf" style="color: #b04a00;">Institute for Policy Integrity</a>
 
 **Temperature variability and long-run economic development**. *Journal of Environmental Economics and Management*, 2023. [PDF](https://doi.org/10.1016/j.jeem.2023.102840)
 
 **Weather drives variation in COVID-19 transmission and detection** (with [Ana De Menezes-Silva](https://www.lse.ac.uk/geography-and-environment/people/phd-students/ana-de-menezes) and [James Rising](https://www.lse.ac.uk/granthaminstitute/profile/james-rising/)). *Environmental Research: Climate*, 2023. [PDF](https://doi.org/10.1088/2752-5295/acb2e3)
 
-**Policy sequencing towards carbon pricing among the world’s largest emitters** (with [Adil Mohommad](https://blogs.imf.org/bloggers/adil-mohommad/) and [Gregor Schwerhoff](https://blogs.imf.org/bloggers/gregor-schwerhoff/)). *Nature Climate Change*, 2022. [PDF](https://www.nature.com/articles/s41558-022-01538-8). Selected coverage: <a href="https://doi.org/10.1787/5cefdf8c-en" style="color: #b04a00;">OECD</a>, <a href="https://openknowledge.worldbank.org/entities/publication/87a8695f-8694-41f8-a260-98e9b49b1659" style="color: #b04a00;">World Bank</a>, <a href="https://www.imf.org/-/media/files/publications/staff-climate-notes/2024/english/clnea2024004.pdf" style="color: #b04a00;">IMF</a>, <a href="https://www.financeministersforclimate.org/sites/default/files/2026-02/CFMCA%20Policy%20Packages%20Report.pdf" style="color: #b04a00;">Coalition of Finance Ministers for Climate Action</a>, <a href="https://www.wto.org/english/res_e/booksp_e/climate_action_e.pdf" style="color: #b04a00;">WTO</a>
-
+**Policy sequencing towards carbon pricing among the world’s largest emitters** (with [Adil Mohommad](https://blogs.imf.org/bloggers/adil-mohommad/) and [Gregor Schwerhoff](https://blogs.imf.org/bloggers/gregor-schwerhoff/)). *Nature Climate Change*, 2022. [PDF](https://www.nature.com/articles/s41558-022-01538-8).
+Selected coverage:
+<a href="https://doi.org/10.1787/5cefdf8c-en" style="color: #b04a00;">OECD</a>,
+<a href="https://openknowledge.worldbank.org/entities/publication/87a8695f-8694-41f8-a260-98e9b49b1659" style="color: #b04a00;">World Bank</a>,
+<a href="https://www.wto.org/english/res_e/booksp_e/climate_action_e.pdf" style="color: #b04a00;">WTO</a>,
+<a href="https://www.imf.org/-/media/files/publications/staff-climate-notes/2024/english/clnea2024004.pdf" style="color: #b04a00;">IMF</a>,
+<a href="https://www.financeministersforclimate.org/sites/default/files/2026-02/CFMCA%20Policy%20Packages%20Report.pdf" style="color: #b04a00;">Coalition of Finance Ministers for Climate Action</a>
