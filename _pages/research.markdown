@@ -40,5 +40,5 @@ permalink: /research/
 
 **Weather drives variation in COVID-19 transmission and detection** (with [Ana De Menezes-Silva](https://www.lse.ac.uk/geography-and-environment/people/phd-students/ana-de-menezes) and [James Rising](https://www.lse.ac.uk/granthaminstitute/profile/james-rising/)). *Environmental Research: Climate*, 2023. [PDF](https://doi.org/10.1088/2752-5295/acb2e3)
 
-**Policy sequencing towards carbon pricing among the world’s largest emitters** (with [Adil Mohommad](https://blogs.imf.org/bloggers/adil-mohommad/) and [Gregor Schwerhoff](https://blogs.imf.org/bloggers/gregor-schwerhoff/)). *Nature Climate Change*, 2022. [PDF](https://www.nature.com/articles/s41558-022-01538-8)
+**Policy sequencing towards carbon pricing among the world’s largest emitters** (with [Adil Mohommad](https://blogs.imf.org/bloggers/adil-mohommad/) and [Gregor Schwerhoff](https://blogs.imf.org/bloggers/gregor-schwerhoff/)). *Nature Climate Change*, 2022. [PDF](https://www.nature.com/articles/s41558-022-01538-8). Selected coverage: <a href="https://www.oecd.org/en/publications/working-together-for-better-climate-action_2b90fa2c-en.html" style="color: #b04a00;">OECD</a>, <a href="https://openknowledge.worldbank.org/entities/publication/87a8695f-8694-41f8-a260-98e9b49b1659" style="color: #b04a00;">World Bank</a>
 
