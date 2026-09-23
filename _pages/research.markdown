@@ -52,6 +52,7 @@ Selected coverage:
 Selected coverage:
 <a href="https://doi.org/10.1787/5cefdf8c-en" style="color: #b04a00;">OECD</a>,
 <a href="https://openknowledge.worldbank.org/entities/publication/87a8695f-8694-41f8-a260-98e9b49b1659" style="color: #b04a00;">World Bank</a>,
-<a href="https://www.wto.org/english/res_e/booksp_e/climate_action_e.pdf" style="color: #b04a00;">WTO</a>,
+<a href="https://www.wto.org/english/res_e/booksp_e/climate_action_e.pdf" style="color: #b04a00;">WTO / IMF / UNCTAD</a>,
 <a href="https://www.imf.org/-/media/files/publications/staff-climate-notes/2024/english/clnea2024004.pdf" style="color: #b04a00;">IMF</a>,
+<a href="https://www.weforum.org/publications/accelerating-an-equitable-transition-policy-guidelines-for-impact/" style="color: #b04a00;">World Economic Forum</a>,
 <a href="https://www.financeministersforclimate.org/sites/default/files/2026-02/CFMCA%20Policy%20Packages%20Report.pdf" style="color: #b04a00;">Coalition of Finance Ministers for Climate Action</a>
