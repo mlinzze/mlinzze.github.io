@@ -22,6 +22,7 @@ permalink: /research/
 
 **Global inequalities in weather forecasts** (with [Jeffrey Shrader](https://jeffreyshrader.com/)). *Nature Communications*, 2026. [PDF](https://doi.org/10.1038/s41467-026-77630-w). 
 Selected coverage: <a href="https://ourworldindata.org/weather-forecasts" style="color: #b04a00;">Our World in Data</a>, <a href="https://www.resources.org/resources-radio/inequality-in-weather-forecasts-around-the-world-with-jeff-shrader/" style="color: #b04a00;">Resources for the Future</a>, <a href="https://voxdev.org/topic/energy-environment/cloudy-chance-no-clouds-why-weather-forecasts-are-worse-low-income" style="color: #b04a00;">VoxDev</a>, <a href="https://phys.org/news/2026-09-weather-significantly-accurate-poorer-countries.html" style="color: #b04a00;">Phys.org</a>,
+<a href="https://www.ardmediathek.de/video/YWNhN2ZlY2EtNGQ0ZS00MmRlLTgwZjYtMjI5ZWI5NTk2MDlj" style="color: #b04a00;">Hessischer Rundfunk (TV interview)</a>,
 <a href="https://www.faz.net/aktuell/rhein-main/frankfurt/warum-wettervorhersagen-in-reichen-laendern-viel-genauer-sind-accg-201228800.html" style="color: #b04a00;">Frankfurter Allgemeine Zeitung</a>
 
 **Climate policy diffusion across US states** (with [Mitali Das](https://www.imf.org/en/Research/Researcher-CV/Author/Das-Mitali?AuthID=267#Background) and [Gregor Schwerhoff](https://blogs.imf.org/bloggers/gregor-schwerhoff/)). *Energy Economics*, 2026. [PDF](https://doi.org/10.1016/j.eneco.2026.109531)

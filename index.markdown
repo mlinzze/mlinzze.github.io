@@ -30,7 +30,8 @@ Prior to my current appointment, I worked at the High Meadows Environmental Inst
 
 **Selected other activities:**
 
-- My article on the economic costs of climate change in Europe was recently covered by Deutschlandfunk, Germany's national radio broadcaster ([link, German only](https://www.deutschlandfunk.de/waldbraende-und-klimawandel-hohe-folgekosten-100.html)).
+- The Hessischer Rundfunk invited me to talk about our paper on "Global inequalities in weather forecasts" on live TV ([ARD Mediathek](https://www.ardmediathek.de/video/YWNhN2ZlY2EtNGQ0ZS00MmRlLTgwZjYtMjI5ZWI5NTk2MDlj)).
+- My article on the economic costs of climate change in Europe was recently covered by Deutschlandfunk, Germany's national radio broadcaster ([Recording, German only](https://www.deutschlandfunk.de/waldbraende-und-klimawandel-hohe-folgekosten-100.html)).
 - Jeffrey Shrader and I published an invited post on VoxDev summarizing our research on weather forecasts ([link](https://voxdev.org/topic/energy-environment/cloudy-chance-no-clouds-why-weather-forecasts-are-worse-low-income)). For a broader overview of the topic, Our World in Data features a related article that draws on our work ([link](https://ourworldindata.org/weather-forecasts)).
 - In April 2026 I am organising a workshop on Climate Impacts and Adaptation at Goethe University. **Update**: Some impressions of the event [here](https://mlinsenmeier.com/workshop-climate-impacts/photos.html).
-- My appointment at Goethe University was featured in a portrait in the *Frankfurter Allgemeine Zeitung* (FAZ), one of Germany's leading newspapers ([link, German only](https://www.faz.net/aktuell/karriere-hochschule/die-wettervorhersage-im-klimawandel-manuel-linsenmeier-accg-110709599.html)).
+- My appointment at Goethe University was featured in a portrait in the *Frankfurter Allgemeine Zeitung* (FAZ), one of Germany's leading newspapers ([article, German only](https://www.faz.net/aktuell/karriere-hochschule/die-wettervorhersage-im-klimawandel-manuel-linsenmeier-accg-110709599.html)).
