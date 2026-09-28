@@ -6,8 +6,6 @@ main:
     url: /research/
   - title: "Teaching"
     url: /teaching/
-  - title: "Policy"
-    url: /policy/
   - title: "CV"
     url: /assets/files/Linsenmeier_CV.pdf
   - title: "Contact"
