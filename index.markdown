@@ -30,6 +30,7 @@ Prior to my current appointment, I worked at the High Meadows Environmental Inst
 
 **Selected other activities:**
 
+- I am organising a workshop on Environmental Economics in Frankfurt on February 4 and 5, 2027. You can find the call for submissions and registration here: [link](/assets/files/Workshop_EnvironmentalEconomics.pdf)
 - The Hessischer Rundfunk invited me to talk about our paper on "Global inequalities in weather forecasts" on live TV ([ARD Mediathek](https://www.ardmediathek.de/video/YWNhN2ZlY2EtNGQ0ZS00MmRlLTgwZjYtMjI5ZWI5NTk2MDlj)).
 - My article on the economic costs of climate change in Europe was recently covered by Deutschlandfunk, Germany's national radio broadcaster ([Recording, German only](https://www.deutschlandfunk.de/waldbraende-und-klimawandel-hohe-folgekosten-100.html)).
 - Jeffrey Shrader and I published an invited post on VoxDev summarizing our research on weather forecasts ([link](https://voxdev.org/topic/energy-environment/cloudy-chance-no-clouds-why-weather-forecasts-are-worse-low-income)). For a broader overview of the topic, Our World in Data features a related article that draws on our work ([link](https://ourworldindata.org/weather-forecasts)).
